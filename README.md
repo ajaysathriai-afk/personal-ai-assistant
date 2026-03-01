@@ -59,7 +59,7 @@ personal-ai-assistant/
 **Ajay Kumar Sathri**
 - 🎓 Masters in Computer Science (USA)
 - 💼 Specialization: Agentic AI & Generative AI
-- 🔗 [GitHub](https://github.com/YOUR_USERNAME)
+- 🔗 [GitHub](https://github.com/ajaysathriai-afk)
 
 ## 📝 License
 
