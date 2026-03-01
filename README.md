@@ -39,7 +39,7 @@ streamlit run app.py
 
 ## 🚀 Live Demo
 
-🔗 **[Try it here!](LINK_AFTER_DEPLOYMENT)**
+🔗 **[Try it here!](https://ajaysathriai-afk-personal-ai-assistant-app-9fobfl.streamlit.app/)**
 
 ## 📁 Project Structure
 ```
